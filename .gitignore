@@ -1,0 +1,17 @@
+# ---- ห้ามขึ้น GitHub: รหัสผ่านอีเมลของร้าน (ใช้ email_config.example.json เป็นตัวอย่างแทน) ----
+email_config.json
+
+# ---- ฐานข้อมูลจริง มีข้อมูลสมาชิก (ชื่อ เบอร์ อีเมล) - โปรแกรมสร้างฐานข้อมูลใหม่ให้เองตอนเปิดครั้งแรก ----
+*.db
+*.db-journal
+backups/
+reports/
+
+# ---- ไฟล์ชั่วคราวของ Python ----
+__pycache__/
+*.pyc
+
+# ---- สำเนาเก่า / ไฟล์ช่วยติดตั้งที่ใช้ครั้งเดียว ----
+old_version/
+images/old_menu_images/
+install_pillow.bat

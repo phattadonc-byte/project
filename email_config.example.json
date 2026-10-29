@@ -1,0 +1,7 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "security": "starttls",
+  "username": "ใส่อีเมลของร้าน@gmail.com",
+  "password": "ใส่รหัสผ่านสำหรับแอป (App Password) 16 ตัว"
+}
