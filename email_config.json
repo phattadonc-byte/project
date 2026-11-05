@@ -1,0 +1,9 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "security": "starttls",
+  "username": "pc1118374@gmail.com",
+  "password": "iutebabefgudmoqm",
+  "from_address": "pc1118374@gmail.com",
+  "sender_name": "shop"
+}
